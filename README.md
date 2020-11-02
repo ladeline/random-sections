@@ -11,6 +11,8 @@ The outputs are :
 
 This application is a Jupyter notebook , so run a Jupyter Kernel in order to use.
 
+The only file you need is RandomSections.ipynb , all other files are there as sample usage cases.
+
 
 ## Usage
 
